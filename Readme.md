@@ -16,35 +16,39 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Hiện tại mình đang làm việc với **ASP.NET Core & Android Development**  
-- 🌱 Mình đang học về **Jetpack Compose & Backend API**  
+- 🔭 Hiện tại mình đang làm việc với **ASP.NET Core &amp; Android Development**  
+- 🌱 Mình đang học về **Jetpack Compose &amp; Backend API**  
 - 💬 Và mình **đang tìm tester của riêng mình**  
 - 📫 Liên hệ: **thocodeanhquan@gmail.com**  
 
 ---
 
+## OS
+![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&amp;logo=windows&amp;logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white)
+
 ## 🛠️ Tech Stack  
 ### 🔹 Mobile Development  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![android](https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&amp;logo=jetpack-compose&amp;logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&amp;logo=android-studio&amp;logoColor=white)
 
 ### 🔹 Ngôn ngữ lập trình  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&amp;logo=c-sharp&amp;logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&amp;logo=kotlin&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=java&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black)
 
-### 🔹 Backend & Database  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+### 🔹 Backend &amp; database  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&amp;logo=dotnet&amp;logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&amp;logo=microsoft-sql-server&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&amp;logo=firebase&amp;logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&amp;logo=sqlite&amp;logoColor=white)
 
 ### 🔹 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&amp;logo=bootstrap&amp;logoColor=white)
 
 ---
 
@@ -56,10 +60,10 @@
 ![GitHub license](https://img.shields.io/github/license/kedokato-dev/kedokato-dev)
 
 ### 📈 Biểu đồ thống kê  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedokato-dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedokato-dev&amp;show_icons=true&amp;theme=radical)
 
 ### 🎨 Ngôn ngữ sử dụng  
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kedokato-dev&layout=compact)
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kedokato-dev&amp;layout=compact)
 
 ---
 
