@@ -8,64 +8,123 @@
   <a href="https://github.com/kedokato-dev">
     <img src="https://img.shields.io/github/followers/kedokato-dev?label=Followers&style=social" alt="GitHub Followers">
   </a>
+  <!-- Sử dụng visitor badge từ badges.pufler.dev -->
   <a href="https://github.com/kedokato-dev">
-    <img src="https://komarev.com/ghpvc/?username=kedokato-dev&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+    <img src="https://badges.pufler.dev/visits/kedokato-dev/kedokato-dev?color=blue&style=flat&logo=github" alt="Visits Badge">
   </a>
 </p>
 
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Date (UTC)-2025--04--27-blue?style=flat&logo=github" alt="Current Date">
+    <img src="https://img.shields.io/badge/Time (UTC)-07:10:51-blueviolet?style=flat&logo=clockify" alt="Current Time UTC">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Time (Vietnam)-14:10:51_GMT+7-orange?style=flat&logo=clockify" alt="Current Time Vietnam">
+    <img src="https://img.shields.io/badge/User-kedokato--dev-success?style=flat&logo=github" alt="GitHub User">
+  </p>
+</div>
+
 ---
 
-## 🚀 About Me  
-- 🔭 Hiện tại mình đang làm việc với **ASP.NET Core &amp; Android Development**  
-- 🌱 Mình đang học về **Jetpack Compose &amp; Backend API**  
-- 💬 Và mình **đang tìm tester của riêng mình**  
+## 🏆 Projects Showcase / Dự án nổi bật
+
+<div align="center">
+  <a href="https://github.com/kedokato-dev/HouCheck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kedokato-dev&repo=HouCheck&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/kedokato-dev/MeeMusic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kedokato-dev&repo=MeeMusic&theme=radical" />
+  </a>
+</div>
+
+## 🚀 About Me / Giới thiệu  
+- 👨‍💻 **ASP.NET Core & Android Developer** với kinh nghiệm phát triển ứng dụng đa nền tảng
+- 🔭 Hiện tại mình đang làm việc với **ASP.NET Core & Android Development**  
+- 🌱 Đang nghiên cứu về **Jetpack Compose & Backend API Architecture**  
+- 🎯 Mục tiêu: Trở thành **Full Stack Developer** với kiến thức chuyên sâu về mobile và web
+- 💡 Luôn tìm kiếm cơ hội hợp tác trong các dự án mã nguồn mở
 - 📫 Liên hệ: **thocodeanhquan@gmail.com**  
-
----
 
 ## OS
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&amp;logo=windows&amp;logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white)
 
-## 🛠️ Tech Stack  
-### 🔹 Mobile Development  
-![android](https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&amp;logo=jetpack-compose&amp;logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&amp;logo=android-studio&amp;logoColor=white)
+## 🛠️ Tech Stack  ## 🛠️ Tech Stack  
 
-### 🔹 Ngôn ngữ lập trình  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&amp;logo=c-sharp&amp;logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&amp;logo=kotlin&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=java&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+  <br>Kotlin
+</td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" /> 
+      <br>ASP.NET
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
 
-### 🔹 Backend &amp; database  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&amp;logo=dotnet&amp;logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&amp;logo=microsoft-sql-server&amp;logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&amp;logo=firebase&amp;logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&amp;logo=sqlite&amp;logoColor=white)
+## 📊 GitHub Stats
 
-### 🔹 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&amp;logo=bootstrap&amp;logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kedokato-dev&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kedokato-dev&theme=radical&row=1&column=6" alt="trophy" />
+</div>
 
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kedokato-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedokato-dev&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 ---
 
-## 📊 GitHub Stats  
 
-### 🔥 Hoạt động gần đây  
-![GitHub commit count](https://img.shields.io/github/commit-activity/m/kedokato-dev/kedokato-dev)
-![GitHub contributors](https://img.shields.io/github/contributors/kedokato-dev/kedokato-dev)
-![GitHub license](https://img.shields.io/github/license/kedokato-dev/kedokato-dev)
 
-### 📈 Biểu đồ thống kê  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedokato-dev&amp;show_icons=true&amp;theme=radical)
 
-### 🎨 Ngôn ngữ sử dụng  
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kedokato-dev&amp;layout=compact)
 
----
+## 🎯 Learning Roadmap / Lộ trình học tập
+
+```mermaid
+timeline
+    title Lộ trình phát triển kỹ năng
+    2022 : Nhập môn
+         : Học các kiến thức cơ sở ngành
+    2023 : Tiếp cận Android Java
+         : Xây dựng ứng dụng Java
+    2024 : BackEnd API với Node JS
+         : Giải nhì ICPC Quốc Gia khối PHẦN MỀM NGUỒN MỞ (OPEN SRC)
+    2025 : Full Stack Development
+         : Lấy vợ 🤡
+```
 
 ## 🌐 Liên hệ & Mạng xã hội  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kedokat0)
