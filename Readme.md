@@ -51,7 +51,7 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=flat&amp;logo=windows&amp;logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white)
 
-## 🛠️ Tech Stack  ## 🛠️ Tech Stack  
+## 🛠️ Tech Stack / Công nghệ sử dụng
 
 <table align="center">
   <tr>
@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats / Chỉ số sức mạnh
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kedokato-dev&theme=radical" alt="GitHub Streak" />
