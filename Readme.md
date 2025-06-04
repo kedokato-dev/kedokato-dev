@@ -40,7 +40,6 @@
 </div>
 
 ## 🚀 About Me / Giới thiệu  
-- 👨‍💻 **ASP.NET Core & Android Developer** với kinh nghiệm phát triển ứng dụng đa nền tảng
 - 🔭 Hiện tại mình đang làm việc với **NodeJs Backend & Android Development**  
 - 🌱 Đang nghiên cứu về **Jetpack Compose & Clean Architecture**  
 - 🎯 Mục tiêu: Trở thành **Full Stack Developer** với kiến thức chuyên sâu về web và ứng dụng đa nền tảng
