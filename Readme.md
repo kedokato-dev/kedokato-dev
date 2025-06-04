@@ -41,9 +41,9 @@
 
 ## 🚀 About Me / Giới thiệu  
 - 👨‍💻 **ASP.NET Core & Android Developer** với kinh nghiệm phát triển ứng dụng đa nền tảng
-- 🔭 Hiện tại mình đang làm việc với **ASP.NET Core & Android Development**  
-- 🌱 Đang nghiên cứu về **Jetpack Compose & Backend API Architecture**  
-- 🎯 Mục tiêu: Trở thành **Full Stack Developer** với kiến thức chuyên sâu về mobile và web
+- 🔭 Hiện tại mình đang làm việc với **NodeJs Backend & Android Development**  
+- 🌱 Đang nghiên cứu về **Jetpack Compose & Clean Architecture**  
+- 🎯 Mục tiêu: Trở thành **Full Stack Developer** với kiến thức chuyên sâu về web và ứng dụng đa nền tảng
 - 💡 Luôn tìm kiếm cơ hội hợp tác trong các dự án mã nguồn mở
 - 📫 Liên hệ: **thocodeanhquan@gmail.com**  
 
@@ -53,44 +53,41 @@
 
 ## 🛠️ Tech Stack / Công nghệ sử dụng
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-  <br>Kotlin
-</td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" /> 
-      <br>ASP.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- OS -->
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="60"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="60"/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="60"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="60"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="60"/>
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=csharp" alt="C#" width="60"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="60"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="60"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="60"/>
+
+  <!-- Frameworks & Runtime -->
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="60"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="60"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="60"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="60"/>
+
+  <!-- Build & Database -->
+  <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" width="60"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60"/>
+</p>
+
+
 
 ## 📊 GitHub Stats / Chỉ số sức mạnh
 
